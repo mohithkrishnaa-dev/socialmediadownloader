@@ -1,7 +1,5 @@
-Flask
-yt-dlp
-instaloader
-facebook-scraper
-requests
-gunicorn
-lxml_html_clean
+Flask==3.0.0
+yt-dlp==2024.12.23
+psutil==5.9.8
+Werkzeug==3.0.1
+
